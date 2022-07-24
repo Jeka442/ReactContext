@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { CounterLayout } from "../Components";
+import { CounterLayout } from "../Components/CounterLayout";
 import { MyContextProvider } from "../Context/MyContextProvider";
 
 export const Page = () => {
